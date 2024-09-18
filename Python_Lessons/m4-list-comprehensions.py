@@ -1,4 +1,4 @@
-numbers = [1, 2, 3, 4]
+numbers = [1, 2, 3, 4,5]
 
 mumbers = []
 for i in range(1, 101):
@@ -6,9 +6,9 @@ for i in range(1, 101):
 print(numbers)
 
 
-numbers = [i for i in range(1, 101)]
-print(numbers)
+# numbers = [i for i in range(1, 101)]
+# print(numbers)
 
 
-numbers = [i for i in range(1, 101) if i % 3 !=0]
-print(numbers)
+# numbers = [i for i in range(1, 101) if i % 3 !=0]
+# print(numbers)
