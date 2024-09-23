@@ -1,12 +1,12 @@
-# value = int(input('Enter an interger :'))
-# print('The inverse of', value, 'is', 1/value)
+value = int(input('Enter an interger :'))
+print('The inverse of', value, 'is', 1/value)
 
 
-# try:
-#     value = int(input('Enter an interger :'))
-#     print('The inverse of', value, 'is', 1/value)
-# except:
-#     print('You did not provide a number, so i will not calculate the inverse')
+try:
+    value = int(input('Enter an interger :'))
+    print('The inverse of', value, 'is', 1/value)
+except:
+    print('You did not provide a number, so i will not calculate the inverse')
 
 
 
