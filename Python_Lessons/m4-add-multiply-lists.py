@@ -6,3 +6,5 @@ print(list_all)
 
 list_numbers = [0, 1] * 10
 print(list_numbers)
+
+#test
